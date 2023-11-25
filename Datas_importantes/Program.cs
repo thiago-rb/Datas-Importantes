@@ -63,18 +63,146 @@ namespace Datas_importantes
 
                         case 2:
                             Console.WriteLine();
+                            Console.WriteLine("Escolha qual evento historico deseja visualiar:");
+                            Console.WriteLine("1 - ENIAC");
+                            Console.WriteLine("2 - RFC1");
+                            Console.WriteLine("3 - História de Alan Turing");
+
+                            do
+                            {
+                                Console.Write("Insira o numero da opção que deseja: ");
+                                int opcao = int.Parse(Console.ReadLine());
+
+                                if (opcao >= 1 && opcao <= 3)
+                                {
+
+                                    switch (opcao)
+                                    {
+                                        case 1:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 2:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 3:
+                                            Console.WriteLine();
+                                            break;
+                                    }
+                                    break;
+                                }
+                                Console.WriteLine();
+                                Console.WriteLine("Opção invalida! Escolha outra opção novamente");
+                            } while (true);
                             break;
 
                         case 3:
                             Console.WriteLine();
+                            Console.WriteLine("Escolha qual evento historico deseja visualiar:");
+                            Console.WriteLine("1 - ENIAC");
+                            Console.WriteLine("2 - RFC1");
+                            Console.WriteLine("3 - História de Alan Turing");
+
+                            do
+                            {
+                                Console.Write("Insira o numero da opção que deseja: ");
+                                int opcao = int.Parse(Console.ReadLine());
+
+                                if (opcao >= 1 && opcao <= 3)
+                                {
+
+                                    switch (opcao)
+                                    {
+                                        case 1:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 2:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 3:
+                                            Console.WriteLine();
+                                            break;
+                                    }
+                                    break;
+                                }
+                                Console.WriteLine();
+                                Console.WriteLine("Opção invalida! Escolha outra opção novamente");
+                            } while (true);
                             break;
 
                         case 4:
                             Console.WriteLine();
+                            Console.WriteLine("Escolha qual evento historico deseja visualiar:");
+                            Console.WriteLine("1 - ENIAC");
+                            Console.WriteLine("2 - RFC1");
+                            Console.WriteLine("3 - História de Alan Turing");
+
+                            do
+                            {
+                                Console.Write("Insira o numero da opção que deseja: ");
+                                int opcao = int.Parse(Console.ReadLine());
+
+                                if (opcao >= 1 && opcao <= 3)
+                                {
+
+                                    switch (opcao)
+                                    {
+                                        case 1:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 2:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 3:
+                                            Console.WriteLine();
+                                            break;
+                                    }
+                                    break;
+                                }
+                                Console.WriteLine();
+                                Console.WriteLine("Opção invalida! Escolha outra opção novamente");
+                            } while (true);
                             break;
 
                         case 5:
                             Console.WriteLine();
+                            Console.WriteLine("Escolha qual evento historico deseja visualiar:");
+                            Console.WriteLine("1 - ENIAC");
+                            Console.WriteLine("2 - RFC1");
+                            Console.WriteLine("3 - História de Alan Turing");
+
+                            do
+                            {
+                                Console.Write("Insira o numero da opção que deseja: ");
+                                int opcao = int.Parse(Console.ReadLine());
+
+                                if (opcao >= 1 && opcao <= 3)
+                                {
+
+                                    switch (opcao)
+                                    {
+                                        case 1:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 2:
+                                            Console.WriteLine();
+                                            break;
+
+                                        case 3:
+                                            Console.WriteLine();
+                                            break;
+                                    }
+                                    break;
+                                }
+                                Console.WriteLine();
+                                Console.WriteLine("Opção invalida! Escolha outra opção novamente");
+                            } while (true);
                             break;
                     }
                     break;
