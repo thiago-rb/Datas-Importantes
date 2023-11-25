@@ -1,0 +1,8 @@
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\bin\Debug\Datas_importantes.exe.config
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\bin\Debug\Datas_importantes.exe
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\bin\Debug\Datas_importantes.pdb
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\obj\Debug\Datas_importantes.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\obj\Debug\Datas_importantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\obj\Debug\Datas_importantes.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\obj\Debug\Datas_importantes.exe
+C:\Users\thiag\Desktop\Projetos\Datas_importantes\Datas_importantes\obj\Debug\Datas_importantes.pdb
